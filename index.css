@@ -1,0 +1,995 @@
+@keyframes scale-up {
+  0% {
+    transform: scale(0.5);
+  }
+  to {
+    transform: scale(1);
+  }
+}
+.gmi-new-logo-11 {
+  position: relative;
+  width: 172.99px;
+  height: 65.64px;
+  object-fit: cover;
+}
+.home1 {
+  cursor: pointer;
+}
+.home1,
+.our-services1 {
+  position: relative;
+  font-weight: 500;
+}
+.menu-icon1 {
+  position: relative;
+  width: 21.88px;
+  height: 19.14px;
+  display: none;
+}
+.nav-link1 {
+  flex: 1;
+  padding: 15.158016204833984px 18.947521209716797px;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-18xl-9);
+}
+.nav-button2,
+.nav-link1,
+.navbar1 {
+  display: flex;
+  flex-direction: row;
+}
+.nav-button2 {
+  border-radius: 3.79px;
+  background-color: var(--primary-text);
+  padding: 11.368512153625488px 30.31603240966797px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: right;
+  color: var(--color-white);
+}
+.navbar1 {
+  align-self: stretch;
+  background-color: var(--color-white);
+  backdrop-filter: blur(28.42px);
+  border-bottom: 0.9px solid var(--color-gray-200);
+  padding: 17.052766799926758px 104.21135711669922px;
+  align-items: center;
+  justify-content: space-between;
+  color: var(--secondary-text);
+}
+.welcome-to-goodworkers {
+  align-self: stretch;
+  position: relative;
+  line-height: 120%;
+}
+.secondary-button1 {
+  border-radius: var(--br-9xs);
+  background-color: var(--color-white);
+  backdrop-filter: blur(80px);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-base) var(--padding-13xl);
+  align-items: center;
+  justify-content: center;
+}
+.play-icon {
+  position: relative;
+  width: 24px;
+  height: 24px;
+}
+.take-a-tour {
+  position: relative;
+  font-weight: 500;
+}
+.button-row,
+.video-button {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.video-button {
+  padding: var(--padding-xs) var(--padding-base);
+  gap: var(--gap-5xs);
+  color: var(--color-white);
+}
+.button-row {
+  align-self: stretch;
+  flex-wrap: wrap;
+  gap: var(--gap-5xl);
+  text-align: right;
+  font-size: var(--paragraph-size);
+  color: var(--primary-text);
+}
+.header,
+.welcome-to-goodworkers-interna-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.welcome-to-goodworkers-interna-parent {
+  gap: var(--gap-51xl);
+}
+.header {
+  align-self: stretch;
+  padding: 230px 300px;
+  background-image: url(./public/header@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  opacity: 1;
+  text-align: center;
+  font-size: var(--font-size-45xl);
+  color: var(--color-white);
+}
+.about-section.animate,
+.about-section1.animate,
+.contribute.animate,
+.gmi-home-inner.animate,
+.header.animate,
+.section-title-parent.animate {
+  animation: 1s ease 0s 1 normal forwards scale-up;
+}
+.know-about-us {
+  position: relative;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+.line-icon {
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  height: 2px;
+}
+.header-text {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-5xl);
+  text-align: center;
+}
+.we-serve-humanity {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--h2-size);
+  line-height: 120%;
+}
+.the-goodworkers-ministry {
+  margin: 0;
+}
+.the-goodworkers-ministry-container {
+  align-self: stretch;
+  position: relative;
+  line-height: 160%;
+  color: var(--secondary-text);
+}
+.details {
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-20xl);
+}
+.details,
+.primary-button1,
+.text-btn {
+  display: flex;
+  justify-content: flex-start;
+}
+.primary-button1 {
+  border-radius: var(--br-9xs);
+  background-color: var(--color-crimson-100);
+  backdrop-filter: blur(80px);
+  flex-direction: row;
+  padding: var(--padding-base) var(--padding-13xl);
+  align-items: center;
+  text-align: right;
+  color: var(--color-white);
+}
+.text-btn {
+  flex: 1;
+  flex-direction: column;
+  padding: 0 155px 0 0;
+  align-items: flex-start;
+  gap: var(--gap-20xl);
+}
+.vector-icon {
+  position: relative;
+  width: 450px;
+  height: 434px;
+}
+.about-section {
+  align-self: stretch;
+  background-color: var(--color-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: var(--padding-47xl) var(--padding-102xl);
+  align-items: flex-start;
+  justify-content: space-between;
+  opacity: 1;
+}
+.join-us {
+  position: relative;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+.header-text1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-5xl);
+}
+.lets-make-the {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--h2-size);
+  line-height: 45px;
+}
+.we-know-volunteers-container {
+  align-self: stretch;
+  position: relative;
+  line-height: 160%;
+  color: var(--secondary-text);
+}
+.details1 {
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-20xl);
+}
+.details1,
+.primary-button2,
+.text-btn1 {
+  display: flex;
+  justify-content: flex-start;
+}
+.primary-button2 {
+  border-radius: var(--br-9xs);
+  background-color: var(--primary-text);
+  backdrop-filter: blur(80px);
+  flex-direction: row;
+  padding: var(--padding-base) var(--padding-13xl);
+  align-items: center;
+  text-align: right;
+  color: var(--color-white);
+}
+.text-btn1 {
+  flex: 1;
+  flex-direction: column;
+  padding: 0 218px 0 0;
+  align-items: flex-start;
+  gap: var(--gap-20xl);
+}
+.unsplashsbiak0pkuie-icon {
+  position: relative;
+  border-radius: var(--br-xl);
+  width: 481px;
+  height: 395px;
+  object-fit: cover;
+}
+.about-section1,
+.our-cardinal-objective-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.about-section1 {
+  align-self: stretch;
+  background-color: var(--color-mistyrose);
+  overflow: hidden;
+  flex-wrap: wrap;
+  padding: var(--padding-47xl) var(--padding-102xl);
+  justify-content: space-between;
+  opacity: 1;
+}
+.our-cardinal-objective-wrapper {
+  justify-content: center;
+}
+.we-are-commited {
+  font-size: var(--h2-size);
+  line-height: 120%;
+  text-align: left;
+}
+.our-goal,
+.to-raise-a,
+.we-are-commited {
+  align-self: stretch;
+  position: relative;
+}
+.our-goal {
+  font-weight: 500;
+}
+.to-raise-a {
+  font-size: var(--paragraph-size);
+  line-height: 160%;
+  font-family: var(--h3);
+}
+.bottom {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: linear-gradient(180deg, transparent, rgba(33, 39, 48, 0.85));
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  padding: 112px var(--padding-5xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-5xl);
+}
+.photo-card {
+  flex: 1;
+  position: relative;
+  border-radius: var(--br-base);
+  height: 416px;
+  overflow: hidden;
+  background-image: url(./public/photo-card@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.bottom1 {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: linear-gradient(180deg, transparent, rgba(33, 39, 48, 0.85));
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  padding: 56px var(--padding-5xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-5xl);
+}
+.photo-card1 {
+  flex: 1;
+  position: relative;
+  border-radius: var(--br-base);
+  height: 416px;
+  overflow: hidden;
+  background-image: url(./public/photo-card1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.bottom2 {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: linear-gradient(180deg, transparent, rgba(33, 39, 48, 0.85));
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  padding: 122px var(--padding-5xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-5xl);
+}
+.photo-card2 {
+  flex: 1;
+  position: relative;
+  border-radius: var(--br-base);
+  height: 416px;
+  overflow: hidden;
+  background-image: url(./public/photo-card2@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.col-1 {
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+  font-size: var(--font-size-7xl);
+  color: var(--color-white);
+  font-family: var(--font-rubik);
+}
+.frame-parent,
+.gmi-home-inner {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+}
+.frame-parent {
+  padding: 0 17px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 54px;
+}
+.gmi-home-inner {
+  background-color: var(--color-white);
+  overflow: hidden;
+  padding: 69px var(--padding-80xl);
+  align-items: center;
+  justify-content: center;
+  opacity: 1;
+  text-align: center;
+}
+.you-can-contribute {
+  align-self: stretch;
+  position: relative;
+  line-height: 120%;
+  text-shadow: 0 4px 5px rgba(0, 0, 0, 0.25);
+}
+.primary-button3 {
+  border-radius: var(--br-9xs);
+  background-color: var(--color-crimson-100);
+  backdrop-filter: blur(80px);
+  padding: var(--padding-base) var(--padding-13xl);
+}
+.button-row1,
+.primary-button3,
+.secondary-button2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.secondary-button2 {
+  border-radius: var(--br-9xs);
+  background-color: var(--color-white);
+  backdrop-filter: blur(80px);
+  padding: var(--padding-base) var(--padding-13xl);
+  text-align: right;
+  color: var(--primary-text);
+}
+.button-row1 {
+  flex-wrap: wrap;
+  gap: 22px;
+  font-size: var(--paragraph-size);
+}
+.join {
+  gap: 91px;
+}
+.contribute,
+.header1,
+.join {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.header1 {
+  border-radius: 100px;
+  padding: var(--padding-80xl) var(--padding-21xl);
+  background-image: url(./public/header1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.contribute {
+  background-color: var(--color-crimson-100);
+  overflow: hidden;
+  padding: 73px var(--padding-80xl);
+  opacity: 1;
+  text-align: center;
+  font-size: var(--h2-size);
+  color: var(--color-white);
+}
+.our-events {
+  position: relative;
+  line-height: 140%;
+  font-weight: 500;
+}
+.line {
+  position: relative;
+  border-top: 1px solid var(--border);
+  box-sizing: border-box;
+  width: 1063px;
+  height: 1px;
+}
+.section-title {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+}
+.div,
+.oct {
+  position: relative;
+  font-weight: 500;
+}
+.div {
+  line-height: 120%;
+}
+.oct {
+  font-size: var(--paragraph-size);
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+.date {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.featured-destination-category {
+  align-self: stretch;
+  position: relative;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+.featured-destination-descripti,
+.featured-destination-title {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--h3-size);
+  line-height: 36px;
+}
+.featured-destination-descripti {
+  font-size: var(--paragraph-size);
+  line-height: 33px;
+}
+.featured-destination-copywriti {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.ellipse {
+  position: relative;
+  border-radius: 50%;
+  background-color: var(--color-white);
+  width: 56px;
+  height: 56px;
+  z-index: 0;
+}
+.arrow-icon {
+  position: absolute;
+  margin: 0 !important;
+  top: 20.64px;
+  left: 19.25px;
+  border-radius: var(--br-xl);
+  width: 18.5px;
+  height: 14.73px;
+  z-index: 1;
+}
+.arrow-button,
+.date-parent,
+.featured-destination-blurb {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.arrow-button {
+  flex-direction: row;
+  position: relative;
+  gap: var(--gap-3xs);
+}
+.date-parent,
+.featured-destination-blurb {
+  flex: 1;
+}
+.featured-destination-blurb {
+  flex-direction: column;
+  padding: var(--padding-11xl);
+  gap: var(--gap-5xl);
+  margin-left: -1px;
+  font-size: var(--font-size-lg);
+}
+.date-parent {
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 0 var(--padding-18xl);
+}
+.featured-destination-title1 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--h3-size);
+  line-height: 150%;
+}
+.events-cta,
+.featured-destination-copywriti1,
+.section-title-parent {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.featured-destination-copywriti1 {
+  flex-direction: column;
+  gap: var(--gap-5xs);
+}
+.events-cta,
+.section-title-parent {
+  background-color: var(--color-mistyrose);
+  flex-direction: row;
+  padding: 107px 140px;
+  font-size: var(--h2-size);
+}
+.section-title-parent {
+  background-color: var(--color-white);
+  flex-direction: column;
+  padding: 67px 61px;
+  gap: 42px;
+  opacity: 1;
+  font-size: var(--font-size-3xl);
+}
+.copyright-information {
+  flex: 1;
+  position: relative;
+}
+.blog,
+.contact-us,
+.home2,
+.projects {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: relative;
+  font-size: var(--paragraph-small-size);
+  font-family: var(--h3);
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  width: 38px;
+  height: 16px;
+  flex-shrink: 0;
+}
+.blog,
+.contact-us,
+.projects {
+  width: 58px;
+}
+.contact-us,
+.projects {
+  width: 67px;
+}
+.contact-us {
+  width: 74.88px;
+}
+.footer,
+.footer-links {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.footer-links {
+  justify-content: center;
+  gap: 14px;
+}
+.footer {
+  align-self: stretch;
+  background-color: var(--black);
+  padding: var(--padding-13xl) 120px;
+  justify-content: space-between;
+  font-size: var(--paragraph-small-size);
+  color: var(--color-white);
+}
+.gmi-home {
+  position: relative;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: left;
+  font-size: var(--paragraph-size);
+  color: var(--primary-text);
+  font-family: var(--h3);
+}
+@media screen and (max-width: 1200px) {
+  .menu-icon1 {
+    display: none;
+  }
+  .events-cta,
+  .footer {
+    padding: var(--padding-61xl);
+    box-sizing: border-box;
+  }
+  .footer {
+    padding: var(--padding-11xl) var(--padding-61xl);
+  }
+}
+@media screen and (max-width: 960px) {
+  .gmi-new-logo-11 {
+    width: 152px;
+    height: 50px;
+  }
+  .home1,
+  .our-services1 {
+    display: none;
+  }
+  .menu-icon1 {
+    display: flex;
+  }
+  .navbar1 {
+    padding-left: var(--padding-41xl);
+    padding-right: var(--padding-41xl);
+    box-sizing: border-box;
+  }
+  .welcome-to-goodworkers {
+    font-size: 50px;
+    line-height: 60px;
+    text-align: center;
+  }
+  .header {
+    padding-left: var(--padding-81xl);
+    padding-right: var(--padding-81xl);
+    box-sizing: border-box;
+  }
+  .line-icon {
+    display: flex;
+  }
+  .header-text {
+    align-items: center;
+    justify-content: center;
+  }
+  .we-serve-humanity {
+    font-size: var(--font-size-21xl);
+    text-align: left;
+  }
+  .the-goodworkers-ministry-container {
+    text-align: left;
+  }
+  .text-btn {
+    align-items: flex-start;
+    justify-content: center;
+    padding-right: var(--padding-11xl);
+    box-sizing: border-box;
+  }
+  .vector-icon {
+    width: 250px;
+    height: 400px;
+  }
+  .about-section {
+    gap: 50px;
+    align-items: flex-start;
+    justify-content: space-between;
+    padding-left: var(--padding-31xl);
+    padding-right: var(--padding-31xl);
+    box-sizing: border-box;
+  }
+  .lets-make-the {
+    font-size: var(--font-size-21xl);
+    text-align: left;
+  }
+  .text-btn1 {
+    padding-right: var(--padding-11xl);
+    box-sizing: border-box;
+  }
+  .unsplashsbiak0pkuie-icon {
+    width: 250px;
+    height: 250px;
+  }
+  .about-section1 {
+    gap: var(--gap-41xl);
+    padding-left: var(--padding-31xl);
+    padding-right: var(--padding-31xl);
+    box-sizing: border-box;
+  }
+  .we-are-commited {
+    font-size: var(--font-size-21xl);
+  }
+  .photo-card,
+  .photo-card1,
+  .photo-card2 {
+    flex: unset;
+    align-self: stretch;
+  }
+  .col-1 {
+    flex-direction: column;
+    gap: 20px;
+  }
+  .gmi-home-inner {
+    flex-direction: column;
+    gap: var(--gap-41xl);
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding-left: var(--padding-31xl);
+    padding-right: var(--padding-31xl);
+    box-sizing: border-box;
+  }
+  .you-can-contribute {
+    font-size: var(--font-size-11xl);
+    text-align: center;
+  }
+  .featured-destination-blurb {
+    padding: var(--padding-5xl) 0;
+    box-sizing: border-box;
+  }
+  .date-parent {
+    flex: unset;
+    align-self: stretch;
+  }
+  .events-cta {
+    flex-direction: column;
+    padding: var(--padding-41xl) var(--padding-21xl);
+    box-sizing: border-box;
+  }
+  .copyright-information {
+    text-align: center;
+  }
+  .footer-links {
+    display: none;
+  }
+  .footer {
+    padding: 29px var(--padding-21xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 420px) {
+  .gmi-new-logo-11 {
+    width: 100px;
+    height: 36px;
+  }
+  .navbar1 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-11xl);
+    box-sizing: border-box;
+  }
+  .welcome-to-goodworkers {
+    font-size: 35px;
+    line-height: 45px;
+  }
+  .header {
+    padding: var(--padding-81xl);
+    box-sizing: border-box;
+  }
+  .know-about-us {
+    font-size: var(--font-size-xs);
+  }
+  .line-icon {
+    display: none;
+  }
+  .header-text {
+    align-items: center;
+    justify-content: center;
+  }
+  .we-serve-humanity {
+    font-size: var(--font-size-21xl);
+    line-height: 45px;
+    text-align: center;
+  }
+  .the-goodworkers-ministry-container {
+    text-align: center;
+  }
+  .text-btn {
+    align-items: center;
+    justify-content: center;
+    padding-right: 0;
+    box-sizing: border-box;
+  }
+  .vector-icon {
+    width: 300px;
+    height: 350px;
+  }
+  .about-section {
+    align-items: center;
+    justify-content: center;
+    padding-left: var(--padding-31xl);
+    padding-right: var(--padding-31xl);
+    box-sizing: border-box;
+  }
+  .join-us {
+    text-align: center;
+  }
+  .header-text1 {
+    align-items: center;
+    justify-content: center;
+  }
+  .lets-make-the {
+    font-size: var(--font-size-21xl);
+  }
+  .lets-make-the,
+  .we-know-volunteers-container {
+    text-align: center;
+  }
+  .details1,
+  .text-btn1 {
+    align-items: center;
+    justify-content: center;
+  }
+  .text-btn1 {
+    padding-right: 0;
+    box-sizing: border-box;
+  }
+  .unsplashsbiak0pkuie-icon {
+    width: 300px;
+    height: 210px;
+  }
+  .about-section1 {
+    gap: var(--gap-41xl);
+    align-items: center;
+    justify-content: center;
+    padding-left: var(--padding-31xl);
+    padding-right: var(--padding-31xl);
+    box-sizing: border-box;
+  }
+  .we-are-commited {
+    font-size: var(--font-size-21xl);
+    line-height: 45px;
+    text-align: center;
+  }
+  .frame-parent,
+  .gmi-home-inner {
+    align-items: center;
+    justify-content: center;
+  }
+  .gmi-home-inner {
+    padding-left: var(--padding-31xl);
+    padding-right: var(--padding-31xl);
+    box-sizing: border-box;
+  }
+  .you-can-contribute {
+    font-size: var(--font-size-3xl);
+    line-height: 30px;
+  }
+  .header1 {
+    padding-top: var(--padding-31xl);
+    padding-bottom: var(--padding-31xl);
+    box-sizing: border-box;
+  }
+  .contribute {
+    padding: var(--padding-31xl);
+    box-sizing: border-box;
+  }
+  .our-events {
+    font-size: var(--font-size-3xl);
+  }
+  .line {
+    display: none;
+  }
+  .date,
+  .section-title {
+    align-items: center;
+    justify-content: center;
+  }
+  .featured-destination-category {
+    text-align: center;
+  }
+  .featured-destination-title {
+    font-size: var(--font-size-3xl);
+    text-align: center;
+  }
+  .featured-destination-descripti {
+    text-align: center;
+  }
+  .date-parent,
+  .featured-destination-blurb,
+  .featured-destination-copywriti {
+    align-items: center;
+    justify-content: center;
+  }
+  .featured-destination-title1 {
+    font-size: var(--font-size-3xl);
+    text-align: center;
+  }
+  .section-title-parent {
+    align-items: center;
+    justify-content: center;
+  }
+  .footer {
+    padding: 28px var(--padding-5xl);
+    box-sizing: border-box;
+  }
+}
